@@ -1,0 +1,363 @@
+﻿
+
+
+
+
+R U R
+R U' R
+R' U' R F2 U R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R U2 R 
+L F2 L
+L' R U R' U' L
+L' U R U' R' L
+R U R' U' R U2 R
+R' F2 D' F2 R
+
+
+
+
+
+L F2' L' U R U2 R
+
+
+
+
+
+
+
+
+
+
+
+R
+F2 R
+F2 U2 R
+F2 U R
+L2 U' R
+
+
+
+
+
+F2 U' R'
+R2 U R
+R2 F2 R
+R2 U2 R
+F2 B2 R
+
+
+
+
+
+L2 U' D R
+F2 U2 D2 R
+F2 U D2 R
+F2 U2 D R
+R2 F2 U2 R
+
+
+
+
+
+F2 U D R
+L2 F2 U R 
+F2 L2 U R
+R2 F2 U R
+F2 L2 U' R
+
+
+
+
+
+R2 F2 U' R
+F2 R2 U' R
+L2 F2 U' R
+F2 R2 U R
+L2 U2 F2 R
+
+
+
+
+
+F2 R2 U2 R
+R2 U F2 R
+F2 U' F2 R
+R2 U' F2 R
+B2 U F2 R
+
+
+
+
+
+L2 U F2 R
+B2 U' F2 R
+L2 U' F2 R
+F2 U F2 R
+R2 L2 U R
+
+
+
+
+
+F2 U2 F2 R
+R U2 F2 R
+R' U2 F2 R
+
+
+
+
+
+
+
+
+
+
+
+
+
+L U' F2 U' D' L
+L' U R U' L
+L' U L R U' R
+R' F2 R2 U2 R
+R' D' F2 D R
+
+
+
+
+
+
+
+
+
+L U' R U L' U R
+L' U2 R U R' U2 L
+L' U2 R U2' R' U2 L
+B' U R U' R' U' B
+L R U' R' U L
+R' U' F2 U R
+
+
+
+
+
+R' D F2 D' R
+R U' R2 D R
+R' D R2 U' R'
+R' U F2 U2 R2 D R'
+
+
+
+
+U L' U R2 U' L
+U R' D L2 D' R
+R U' R2 D R2 U R
+R2 D' R' U L2 U' R
+R D L2 D' R
+R D r2' U' R
+R U'D R' UD' R
+
+
+
+
+
+
+
+
+
+
+R' U' F2 U F2 R
+R U' R' U2 R U' R
+R F2 U2' F2 R
+
+
+
+
+
+R' D' R L' U L
+R U2 L
+R F2 U R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R' U2 R' U2 R
+R' U2 R U2 R
+R U2 R' U2 R
+R U2 R U2 R
+
+
+
+
+
+
+
+
+
+
+
+
+R' U' R' U R
+R' U' R U R
+R' U R' U' R
+R' U R U' R
+R U' R' U R
+
+
+
+
+
+R U' R U R
+R U R' U' R
+R U R U' R
+
+
+
+
+
+
+
+
+R' U' R' U' R
+R' U R U R
+R U' R' U' R
+R U R U R
+
+
+
+
+
+
+
+R' U' R2 U R
+R' U R2 U' R
+R' U2 R2 U2 R
+R U' R2 U R
+R U R2 U' R
+
+
+
+
+
+R U2 R2 U2 R
+
+
+
+
+
+
+
+
+
+
+
+
+
+R' U' R' U2 R
+R' U R U2 R
+R' U2 R' U' R
+R' U2 R U R
+R U' R' U2 R
+
+
+
+
+
+R U R U2 R
+R U2 R' U' R
+R U2 R U R
+
+
+
+
+
+
+
+
+
+R' U' R U2 R
+R' U R' U2 R
+R' U2 R' U R
+R' U2 R U' R
+R U' R U2 R
+
+
+
+
+
+R U R' U2 R
+R U2 R' U R
+R U2 R U' R
+
+
+
+
+
+
+
+
+
+
+R' U' R2 U' R
+R' U R2 U R
+R U' R2 U' R
+R U R2 U R
+
+
+
+
+
+
+
+
+R' U' R U' R
+R' U' R2 U2 R
+R' U R' U R
+R' U R2 U2 R
+R' U2 R2 U' R
+
+
+
+
+
+R' U2 R2 U R
+R U' R U' R
+R U' R2 U2 R
+R U R' U R
+R U R2 U2 R
+
+
+
+
+
+R U2 R2 U' R
+R U2 R2 U R
+
+
+
+
